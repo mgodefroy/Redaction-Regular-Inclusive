@@ -25,5 +25,5 @@ Special thanks to Titus and Dwayne for extending the invitation to participate i
 
 More information on the website https://www.redaction.us/
 
-This font became inclusive thanks to the guide of Bye Bye Binary on gitlab.com/bye-bye-binary and https://typotheque.genderfluid.space/quni.html
+110 inclusives glyphs has been added to this font by Marie Godefroy for the first issue of Curseurs, thanks to the guide of Bye Bye Binary on gitlab.com/bye-bye-binary and https://typotheque.genderfluid.space/quni.html
 
